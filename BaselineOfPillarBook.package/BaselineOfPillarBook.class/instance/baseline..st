@@ -7,24 +7,19 @@ baseline: spec
 				spec
 					className: #ConfigurationOfSeaside3;
 					versionString: #'stable';
-					repository: 'http://smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main/';
+					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/';
 					loads: #(default) ];
 				
 			project: 'Bootstrap' with: [
 				spec
 					className: #ConfigurationOfBootstrap;
 					versionString: #'development';
-					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/' ];
+					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/' ];
 			project: 'Pillar' with: [
 				spec
 					className: #ConfigurationOfPillar;
 					versionString: #'development';
-					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/' ];
-			project: 'WebAnnouncement' with: [
-				spec
-					className: #ConfigurationOfWebAnnouncement;
-					versionString: #'development';
-					repository: 'http://smalltalkhub.com/mc/mikefilonov/WebAnnouncement/main/' ].
+					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/' ].
 				
 		
 		spec package: #'PillarBook'. ].
