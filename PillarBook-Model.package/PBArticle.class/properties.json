@@ -1,0 +1,16 @@
+{
+	"category" : "PillarBook-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pillarBody",
+		"htmlBody",
+		"title" ],
+	"name" : "PBArticle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
