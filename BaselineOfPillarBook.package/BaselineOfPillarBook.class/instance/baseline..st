@@ -6,6 +6,7 @@ baseline: spec
 				spec
 					className: #ConfigurationOfBootstrap;
 					versionString: #'stable';
+					loads: #(Core);
 					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/' ];
 			project: 'WebAnnouncement' with: [
 				spec
