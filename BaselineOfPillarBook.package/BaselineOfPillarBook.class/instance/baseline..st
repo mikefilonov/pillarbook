@@ -3,18 +3,12 @@ baseline: spec
    <baseline>
 	spec for: #'common' do: [
 		spec
-			project: 'Seaside3' with: [
+
+			project: 'WebAnnouncement' with: [
 				spec
-					className: #ConfigurationOfSeaside3;
-					versionString: #'stable';
-					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/';
-					loads: #(default) ];
-				
-			project: 'Bootstrap' with: [
-				spec
-					className: #ConfigurationOfBootstrap;
+					className: #ConfigurationOfWebAnnouncement;
 					versionString: #'development';
-					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo40/main/' ];
+					repository: 'http://smalltalkhub.com/mc/mikefilonov/WebAnnouncement/main/' ];	
 			project: 'Pillar' with: [
 				spec
 					className: #ConfigurationOfPillar;
