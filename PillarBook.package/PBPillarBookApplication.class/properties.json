@@ -1,0 +1,14 @@
+{
+	"category" : "PillarBook",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PBPillarBookApplication",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
