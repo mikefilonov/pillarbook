@@ -1,14 +1,16 @@
 {
 	"category" : "PillarBook-Model",
 	"classinstvars" : [
-		 ],
+		"root" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		"pillarBody",
 		"htmlBody",
-		"title" ],
+		"title",
+		"children",
+		"reference" ],
 	"name" : "PBArticle",
 	"pools" : [
 		 ],

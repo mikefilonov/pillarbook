@@ -1,11 +1,18 @@
 {
 	"class" : {
-		 },
+		"reset" : "mikefilonov 12/9/2015 12:51",
+		"root" : "mikefilonov 12/9/2015 12:51",
+		"rootChildren" : "mikefilonov 12/9/2015 12:55" },
 	"instance" : {
+		"children" : "mikefilonov 12/9/2015 12:51",
 		"compile" : "mikefilonov 12/8/2015 17:54",
-		"htmlBody" : "mikefilonov 12/8/2015 16:40",
+		"htmlBody" : "mikefilonov 12/9/2015 12:54",
 		"htmlBody:" : "mikefilonov 12/8/2015 16:40",
-		"pillarBody" : "mikefilonov 12/8/2015 16:40",
+		"initialize" : "mikefilonov 12/9/2015 12:58",
+		"pillarBody" : "mikefilonov 12/9/2015 12:54",
 		"pillarBody:" : "mikefilonov 12/8/2015 16:40",
+		"reference" : "mikefilonov 12/9/2015 12:56",
+		"reference:" : "mikefilonov 12/9/2015 12:55",
 		"title" : "mikefilonov 12/8/2015 16:40",
-		"title:" : "mikefilonov 12/8/2015 16:40" } }
+		"title:" : "mikefilonov 12/8/2015 16:40",
+		"url" : "mikefilonov 12/9/2015 12:58" } }

@@ -1,3 +1,3 @@
 accessing
 htmlBody
-	^ htmlBody
+	^ htmlBody ifNil: [ '' ]

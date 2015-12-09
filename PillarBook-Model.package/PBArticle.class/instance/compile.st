@@ -1,4 +1,4 @@
-as yet unclassified
+pillar
 compile
 	|document|
 	document := PRDocumentParser parse: self pillarBody.

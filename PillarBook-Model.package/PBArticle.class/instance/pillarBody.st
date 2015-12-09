@@ -1,3 +1,3 @@
 accessing
 pillarBody
-	^ pillarBody
+	^ pillarBody ifNil: [ '' ]
