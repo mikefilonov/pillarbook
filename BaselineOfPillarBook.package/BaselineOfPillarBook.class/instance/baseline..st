@@ -10,4 +10,8 @@ baseline: spec
 					repository: 'http://smalltalkhub.com/mc/mikefilonov/WebAnnouncement/main/' ].
 				
 		
-		spec package: 'PillarBook'. ].
+		spec 
+			package: 'PillarBook';
+			package: 'PillarBook-Model';
+			package: 'PillarBook-Seaside'.
+		 ].
