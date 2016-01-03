@@ -2,17 +2,24 @@
 	"class" : {
 		"reset" : "mikefilonov 12/9/2015 12:51",
 		"root" : "mikefilonov 12/9/2015 12:51",
-		"rootChildren" : "mikefilonov 12/9/2015 12:55" },
+		"rootChildren" : "mikefilonov 1/2/2016 18:19" },
 	"instance" : {
+		"addChild:" : "mikefilonov 1/2/2016 18:30",
 		"children" : "mikefilonov 12/9/2015 12:51",
-		"compile" : "mikefilonov 12/8/2015 17:54",
+		"compile" : "mikefilonov 1/2/2016 19:02",
 		"htmlBody" : "mikefilonov 12/9/2015 12:54",
 		"htmlBody:" : "mikefilonov 12/8/2015 16:40",
 		"initialize" : "mikefilonov 12/9/2015 12:58",
+		"nextPrecedence" : "mikefilonov 1/2/2016 18:35",
 		"pillarBody" : "mikefilonov 12/9/2015 12:54",
 		"pillarBody:" : "mikefilonov 12/8/2015 16:40",
+		"precedence" : "mikefilonov 1/2/2016 18:30",
+		"precedence:" : "mikefilonov 1/2/2016 18:14",
 		"reference" : "mikefilonov 12/9/2015 12:56",
-		"reference:" : "mikefilonov 12/9/2015 12:55",
+		"reference:" : "mikefilonov 1/2/2016 18:08",
+		"sortedChildren" : "mikefilonov 1/2/2016 18:31",
 		"title" : "mikefilonov 12/8/2015 16:40",
 		"title:" : "mikefilonov 12/8/2015 16:40",
-		"url" : "mikefilonov 12/9/2015 12:58" } }
+		"updateTime" : "mikefilonov 1/2/2016 16:21",
+		"updateTime:" : "mikefilonov 1/2/2016 18:10",
+		"url" : "mikefilonov 12/29/2015 20:01" } }

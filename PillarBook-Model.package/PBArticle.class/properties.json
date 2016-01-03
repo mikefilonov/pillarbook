@@ -10,7 +10,9 @@
 		"htmlBody",
 		"title",
 		"children",
-		"reference" ],
+		"reference",
+		"updateTime",
+		"precedence" ],
 	"name" : "PBArticle",
 	"pools" : [
 		 ],

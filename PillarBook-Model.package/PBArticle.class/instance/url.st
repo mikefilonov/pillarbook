@@ -1,3 +1,3 @@
 navigation
 url	
-	^ 'pb/', self reference
+	^ '/pb/', self reference
