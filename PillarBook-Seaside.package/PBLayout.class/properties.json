@@ -1,0 +1,15 @@
+{
+	"category" : "PillarBook-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mainComponent",
+		"navComponent" ],
+	"name" : "PBLayout",
+	"pools" : [
+		 ],
+	"super" : "WALayout",
+	"type" : "normal" }

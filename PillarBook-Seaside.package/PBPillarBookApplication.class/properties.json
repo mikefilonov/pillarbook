@@ -1,0 +1,16 @@
+{
+	"category" : "PillarBook-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"article",
+		"articleView",
+		"navigationView" ],
+	"name" : "PBPillarBookApplication",
+	"pools" : [
+		 ],
+	"super" : "WAController",
+	"type" : "normal" }
