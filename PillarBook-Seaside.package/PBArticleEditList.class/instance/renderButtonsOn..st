@@ -5,5 +5,5 @@ renderButtonsOn: html
 	html anchor class: 'btn'; class: 'btn-default'; callback: [ PBArticle root children remove: self article ]; with: '- Remove'.
 	html anchor class: 'btn'; class: 'btn-default'; callback: [ PBArticle root importChildren ]; with: 'Load from disk'.
 	html anchor class: 'btn'; class: 'btn-default'; callback: [ PBArticle root exportChildren ]; with: 'Save to disk'.
-	html anchor class: 'btn'; class: 'btn-default'; callback: [ self inform: '!' ]; with: 'Publish to Ephemeric'.
+	html anchor class: 'btn'; class: 'btn-default'; callback: [ PBPillarBookApplication publish ]; with: 'Publish to Ephemeric'.
 	
