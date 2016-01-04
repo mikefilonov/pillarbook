@@ -1,4 +1,4 @@
 container
 addChild: anArticle
-	anArticle precedence ifNil: [ anArticle precedence: self nextPrecedence ].
+	anArticle reference ifNil: [ anArticle reference: self nextReference ].
 	self children add: anArticle.
