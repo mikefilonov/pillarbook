@@ -1,0 +1,3 @@
+components
+createArticleView
+	^self subclassResponsibility 

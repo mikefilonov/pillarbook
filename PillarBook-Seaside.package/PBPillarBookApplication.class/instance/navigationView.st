@@ -1,3 +1,3 @@
 components
 navigationView
-	^navigationView ifNil: [ navigationView := PBArticleList new ]
+	^navigationView ifNil: [ navigationView := self createNavigationView ]

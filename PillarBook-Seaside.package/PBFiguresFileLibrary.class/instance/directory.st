@@ -1,3 +1,3 @@
 as yet unclassified
 directory
-	^FileSystem disk workingDirectory resolvePath: (RelativePath withAll: {'figures'})
+	^PBArticle exportDirectory resolvePath: (RelativePath withAll: {'figures'})

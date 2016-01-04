@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "PBFiguresFileLibrary",
+	"name" : "PBArticleReadView",
 	"pools" : [
 		 ],
-	"super" : "WARequestHandler",
+	"super" : "PBArticleView",
 	"type" : "normal" }

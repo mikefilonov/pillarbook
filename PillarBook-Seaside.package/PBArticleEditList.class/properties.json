@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "PBFiguresFileLibrary",
+		"article" ],
+	"name" : "PBArticleEditList",
 	"pools" : [
 		 ],
-	"super" : "WARequestHandler",
+	"super" : "WAComponent",
 	"type" : "normal" }

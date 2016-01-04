@@ -1,5 +1,5 @@
 as yet unclassified
-handle: aRequestContext
+handleFiltered: aRequestContext
 	|path realm filename|
 
 	path := aRequestContext consumer upToEnd.
