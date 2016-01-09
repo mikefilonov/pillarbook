@@ -1,6 +1,7 @@
 as yet unclassified
 publish
 	|id auth imageName client|
+	self call: PBPublishForm new.
 	id := self request: 'Ephemeric Cloud User ID:' label: 'next'.
 	auth := self request: 'Ephemeric Cloud User Auth Tpken' label: 'next'.
 	imageName := self request: 'Publish Image name' label: 'publish'.

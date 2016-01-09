@@ -1,0 +1,14 @@
+{
+	"category" : "PillarBook-Seaside-Layout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"navComponent" ],
+	"name" : "PBNavLayout",
+	"pools" : [
+		 ],
+	"super" : "PBDefaultPageLayout",
+	"type" : "normal" }

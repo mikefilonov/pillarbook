@@ -5,8 +5,8 @@ publishToEphemeric: ecClient named: imageName
 	isNew ifTrue: [ "start application"
 		WAAdmin clearAll.
 		WAAdmin disableDevelopmentTools.
-		WAAdmin defaultDispatcher defaultName: 'kb'.
-		PBViewApplication registerAt: 'kb'.
+		PBViewApplication registerAt: self defaultBaseUrl.
+		WAAdmin defaultDispatcher defaultName: self defaultBaseUrl.
 		WAAdmin register: WAFileHandler at: 'files'. "standard libraries"
 		];
 	ifFalse: [

@@ -1,0 +1,15 @@
+{
+	"category" : "PillarBook-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchBlock",
+		"query" ],
+	"name" : "PBHeaderView",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

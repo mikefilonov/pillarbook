@@ -1,0 +1,14 @@
+{
+	"category" : "PillarBook-Seaside-Component",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PBPublishForm",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

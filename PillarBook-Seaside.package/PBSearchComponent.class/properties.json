@@ -1,15 +1,15 @@
 {
-	"category" : "PillarBook-Seaside",
+	"category" : "PillarBook-Seaside-Component",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"mainComponent",
-		"navComponent" ],
-	"name" : "PBLayout",
+		"articles",
+		"query" ],
+	"name" : "PBSearchComponent",
 	"pools" : [
 		 ],
-	"super" : "WALayout",
+	"super" : "WAComponent",
 	"type" : "normal" }
