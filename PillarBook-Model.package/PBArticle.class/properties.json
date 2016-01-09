@@ -11,7 +11,10 @@
 		"title",
 		"children",
 		"reference",
-		"updateTime" ],
+		"updateTime",
+		"isDefault",
+		"headerTitle",
+		"textIndex" ],
 	"name" : "PBArticle",
 	"pools" : [
 		 ],
