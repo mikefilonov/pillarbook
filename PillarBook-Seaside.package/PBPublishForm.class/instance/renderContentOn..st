@@ -11,7 +11,13 @@ renderContentOn: html
 			html label: 'Auth token: '.
 			html passwordInput class: 'form-control'; on: #authToken of: self.
 			].
-
+		
+		html div class: 'form-group'; with: [ 
+			html label: 'Image Name:'.
+			html textInput class: 'form-control'; on: #imageName of: self.
+			].
+				
+		
 		html div class: 'form-group'; with: [ 
 			html label: 'Alias '.
 			html textInput class: 'form-control'; on: #alias of: self.

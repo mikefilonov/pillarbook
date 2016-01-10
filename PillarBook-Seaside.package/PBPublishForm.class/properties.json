@@ -8,7 +8,8 @@
 	"instvars" : [
 		"userID",
 		"authToken",
-		"alias" ],
+		"alias",
+		"imageName" ],
 	"name" : "PBPublishForm",
 	"pools" : [
 		 ],
