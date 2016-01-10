@@ -25,7 +25,7 @@ publishToEphemeric: ecClient named: imageName
 		
 		
 		ZnConstants maximumEntitySize: 50*1024*1024.
-		(ecClient publishZip: imageName,'.zip' named: imageName) inspect.					
+		^(ecClient publishZip: imageName,'.zip' named: imageName).					
 		]
 	
 

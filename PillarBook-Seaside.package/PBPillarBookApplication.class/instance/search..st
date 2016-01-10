@@ -1,4 +1,4 @@
-search
+callbacks
 search: aQuery
 	|result|
 	result := PBArticle root children select: [ :a | a match: aQuery ].

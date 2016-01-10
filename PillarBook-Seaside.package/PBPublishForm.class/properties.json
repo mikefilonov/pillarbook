@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"userID",
+		"authToken",
+		"alias" ],
 	"name" : "PBPublishForm",
 	"pools" : [
 		 ],

@@ -4,6 +4,8 @@
 	"instance" : {
 		"article" : "mikefilonov 1/3/2016 15:30",
 		"article:" : "mikefilonov 1/3/2016 15:30",
-		"publish" : "mikefilonov 1/5/2016 18:06",
+		"onPublish" : "mikefilonov 1/9/2016 15:15",
+		"onPublish:" : "mikefilonov 1/9/2016 15:15",
+		"publish" : "mikefilonov 1/9/2016 15:15",
 		"renderButtonsOn:" : "mikefilonov 1/3/2016 17:58",
 		"renderContentOn:" : "mikefilonov 1/9/2016 15:05" } }

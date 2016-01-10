@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"article",
-		"onPublish" ],
-	"name" : "PBArticleEditList",
+		"process" ],
+	"name" : "PBPublishProgress",
 	"pools" : [
 		 ],
 	"super" : "WAComponent",

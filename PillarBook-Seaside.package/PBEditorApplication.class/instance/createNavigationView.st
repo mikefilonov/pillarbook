@@ -1,3 +1,3 @@
 components
 createNavigationView
-	^PBArticleEditList new article: self article ; yourself 
+	^PBArticleEditList new article: self article ; onPublish: [self publish]; yourself 
