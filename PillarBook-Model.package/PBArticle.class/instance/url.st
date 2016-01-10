@@ -1,3 +1,3 @@
 navigation
 url	
-	^ PBPillarBookApplication defaultBaseUrl, '/', self reference
+	^ '/', PBPillarBookApplication defaultBaseUrl, '/', self reference
