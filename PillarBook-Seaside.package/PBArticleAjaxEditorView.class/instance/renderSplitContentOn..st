@@ -6,7 +6,7 @@ renderSplitContentOn: html
 		
 	html tbsColumn mediumSize: 6; with: [ 
 		html div id: 'previewPanel'; with: [
-			html html: self article htmlBody ] ]	
+			html html: self article resolvedHtml ] ]	
 	
 	
 	

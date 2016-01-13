@@ -1,5 +1,5 @@
 as yet unclassified
 renderContentOn: html
 
-			html html: self article htmlBody
+			html html: self article resolvedHtml
 	

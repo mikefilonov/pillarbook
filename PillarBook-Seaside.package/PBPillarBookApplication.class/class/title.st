@@ -1,3 +1,3 @@
 as yet unclassified
 title
-	^'Pharo Ephemeric Cloud'
+	^title ifNil: [ 'PillarBook' ]
