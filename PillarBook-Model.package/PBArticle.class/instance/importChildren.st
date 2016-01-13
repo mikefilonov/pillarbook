@@ -6,5 +6,6 @@ importChildren
 		article := PBArticle new pillarBody: file contents; compile; yourself.
 		article reference ifNil: [ article reference: file basenameWithoutExtension ].
 		self addChild: article.
-
-		]
+		].
+	"second round compilation"
+	PBArticle root children do: [ :a | a compile ]

@@ -1,6 +1,8 @@
 pillar
 compile
 	|document|
+"	[ 	"
+	
 	document := PRDocumentParser parse: self pillarBody.
 	
 	[ self htmlBody: (PBHTMLWriter new write: document) ] on: PRWarning do: [ :e | Transcript show: e messageText ].
@@ -11,3 +13,4 @@ compile
 	self headerTitle: (document propertyAt: 'header' ifAbsent: [ nil ]).	
 	
 	self updateTime: DateAndTime now.
+	"] on: Exception do: [ :e| e signal ]"

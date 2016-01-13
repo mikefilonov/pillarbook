@@ -8,16 +8,16 @@
 	"instance" : {
 		"addChild:" : "mikefilonov 1/3/2016 14:52",
 		"children" : "mikefilonov 12/9/2015 12:51",
-		"compile" : "mikefilonov 1/9/2016 14:52",
+		"compile" : "mikefilonov 1/9/2016 17:51",
 		"defaultChild" : "mikefilonov 1/6/2016 11:29",
 		"export" : "mikefilonov 1/3/2016 15:05",
-		"exportChildren" : "mikefilonov 1/3/2016 14:33",
+		"exportChildren" : "mikefilonov 1/13/2016 12:08",
 		"exportDirectory" : "mikefilonov 1/3/2016 14:22",
 		"headerTitle" : "mikefilonov 1/9/2016 13:09",
 		"headerTitle:" : "mikefilonov 1/9/2016 13:09",
 		"htmlBody" : "mikefilonov 12/9/2015 12:54",
 		"htmlBody:" : "mikefilonov 12/8/2015 16:40",
-		"importChildren" : "mikefilonov 1/3/2016 15:08",
+		"importChildren" : "mikefilonov 1/11/2016 20:41",
 		"initialize" : "mikefilonov 12/9/2015 12:58",
 		"isDefault" : "mikefilonov 1/6/2016 11:32",
 		"isDefault:" : "mikefilonov 1/6/2016 11:27",
@@ -27,6 +27,7 @@
 		"pillarBody:" : "mikefilonov 12/8/2015 16:40",
 		"reference" : "mikefilonov 1/3/2016 14:52",
 		"reference:" : "mikefilonov 1/2/2016 18:08",
+		"resolvedHtml" : "mikefilonov 1/11/2016 19:46",
 		"sortedChildren" : "mikefilonov 1/3/2016 14:49",
 		"textIndex" : "mikefilonov 1/9/2016 13:36",
 		"textIndex:" : "mikefilonov 1/9/2016 13:36",
@@ -34,4 +35,4 @@
 		"title:" : "mikefilonov 12/8/2015 16:40",
 		"updateTime" : "mikefilonov 1/2/2016 16:21",
 		"updateTime:" : "mikefilonov 1/2/2016 18:10",
-		"url" : "mikefilonov 1/9/2016 15:56" } }
+		"url" : "mikefilonov 1/11/2016 19:43" } }
