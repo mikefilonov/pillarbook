@@ -20,6 +20,8 @@ PBEditorApplication registerAt: 'editor'.
 PBPillarBookApplication title: 'My Book Name'.
 ```
 
+Open at http://localhost:8080/editor
+
 ## Exported files and figures
 
 Files are exported into image directory under PillarBook/ fodler. If you want to use figures put them into PillarBook/figures and link them with +file:///figures/some.png+
