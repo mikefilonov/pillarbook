@@ -17,7 +17,9 @@ Gofer it
 ```smalltalk
 ZnZincServerAdaptor startOn: 8080.
 PBEditorApplication registerAt: 'editor'.
-PBPillarBookApplication title: 'My Book Name'.
+PBEditorApplication title: 'My Book Name'.
+PBArticle exportDirectory: '/home/user/book/dir' asFileReference.
+PBArticle root importChildren.
 ```
 
 Open at http://localhost:8080/editor
