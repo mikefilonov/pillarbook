@@ -20,7 +20,7 @@ publishToEphemeric: ecClient named: imageName alias: alias
 		(PBArticle exportDirectory / #figures) files do: [: file |
 			archive addMember: (ZipNewFileMember new 
 				from: file;
-				localFileName: 'PillarHub/', (String streamContents: [:s | (file relativeToReference: PBArticle exportDirectory) printOn: s delimiter: $/]); 
+				localFileName: 'PillarBook/', (String streamContents: [:s | (file relativeToReference: PBArticle exportDirectory) printOn: s delimiter: $/]); 
 				yourself) ].
 		archive writeToFileNamed: imageName,'.zip'.
 		
