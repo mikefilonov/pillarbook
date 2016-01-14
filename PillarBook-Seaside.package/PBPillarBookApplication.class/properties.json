@@ -1,9 +1,9 @@
 {
 	"category" : "PillarBook-Seaside-Application",
 	"classinstvars" : [
-		"title" ],
-	"classvars" : [
 		 ],
+	"classvars" : [
+		"title" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"article",

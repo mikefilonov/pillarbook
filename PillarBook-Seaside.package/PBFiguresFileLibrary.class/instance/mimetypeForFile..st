@@ -1,3 +1,4 @@
 as yet unclassified
 mimetypeForFile: filename
-	^'image/jpg'
+	"TODO: do an actual logic here"
+	^'image/png'
