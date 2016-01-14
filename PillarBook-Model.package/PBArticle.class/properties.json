@@ -1,7 +1,8 @@
 {
 	"category" : "PillarBook-Model",
 	"classinstvars" : [
-		"root" ],
+		"root",
+		"exportDirectory" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

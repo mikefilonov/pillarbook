@@ -1,3 +1,3 @@
 export
 exportDirectory
-	^FileSystem disk workingDirectory resolvePath: (RelativePath withAll: {'PillarBook'})
+	^exportDirectory ifNil: [ FileSystem disk workingDirectory resolvePath: (RelativePath withAll: {'PillarBook'}) ]
