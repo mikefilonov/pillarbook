@@ -1,0 +1,14 @@
+{
+	"category" : "PillarBook-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PBTestStub",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
