@@ -6,6 +6,7 @@ publishToEphemeric: ecClient named: imageName alias: alias
 		WAAdmin clearAll.
 		WAAdmin disableDevelopmentTools.
 		PBViewApplication registerAt: self defaultBaseUrl.
+		PBArticle exportDirectory: nil. "worl as default"
 		WAAdmin defaultDispatcher defaultName: self defaultBaseUrl.
 		WAAdmin register: WAFileHandler at: 'files'. "standard libraries"
 		];
@@ -19,7 +20,7 @@ publishToEphemeric: ecClient named: imageName alias: alias
 		(PBArticle exportDirectory / #figures) files do: [: file |
 			archive addMember: (ZipNewFileMember new 
 				from: file;
-				localFileName: (String streamContents: [:s | (file relativeToReference: PBArticle exportDirectory parent) printOn: s delimiter: $/]); 
+				localFileName: 'PillarHub/', (String streamContents: [:s | (file relativeToReference: PBArticle exportDirectory) printOn: s delimiter: $/]); 
 				yourself) ].
 		archive writeToFileNamed: imageName,'.zip'.
 		
