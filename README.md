@@ -12,6 +12,8 @@ Gofer it
     loadDevelopment.
 ```
 
+Or donwload the newest image from INRIA CI: https://ci.inria.fr/pharo-contribution/job/PillarBook/
+
 ## Configuration
 
 ```smalltalk
