@@ -3,7 +3,7 @@ compile
 	|document|
 "	[ 	"
 	
-	document := PRDocumentParser parse: self pillarBody.
+	document := PRPillarParserMain parse: self pillarBody.
 	
 	[ self htmlBody: (PBHTMLWriter new write: document) ] on: PRWarning do: [ :e | Transcript show: e messageText ].
 	self textIndex: (PRTextWriter new write: document).
